@@ -23,7 +23,7 @@ Before developing solutions and visualizing data related to the problem, I will 
 ### 2. Churn Reason
  * In every region, competitors regarding either offers or devices (45.51%) is the most common churn reason, followed by the attitude of supporters (16.22%) and Dissatisfaction (16.17%)
  * Top 3 churn reason is competitors made better offer or devices, and the attitude of the support person
- ## V. Recommendation
+ ## V. Insight
  ### 1. Overall: 
 * The figure of churn rate is ~ 26.8% (1769/6687) showing that churn rate is a significant issue in the company. It is higher than the average churn rate (22%) in the Telecom industry (according to Statista, 2022)   --> A signal for the company to take action on the churn issue
 * Gender is mostly equal -> No notable issues .
