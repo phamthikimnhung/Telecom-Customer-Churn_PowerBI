@@ -23,17 +23,6 @@ Before developing solutions and visualizing data related to the problem, I will 
 ### 2. Churn Reason
  * In every region, competitors regarding either offers or devices (45.51%) is the most common churn reason, followed by the attitude of supporters (16.22%) and Dissatisfaction (16.17%)
  * Top 3 churn reason is competitors made better offer or devices, and the attitude of the support person
- ## V. Insight
- ### 1. Overall: 
-* The figure of churn rate is ~ 26.8% (1769/6687) showing that churn rate is a significant issue in the company. It is higher than the average churn rate (22%) in the Telecom industry (according to Statista, 2022)   --> A signal for the company to take action on the churn issue
-* Gender is mostly equal -> No notable issues .
-* Age: Old adulthood (35-64)  is the highest rate of total chuners (49.16%)  --> More actions are needed for people aged 35-64.
-* Contract type:  the monthly package dominates others in the number of churn users. It is noticeable that the structure of churn by paying package between all users and churners is significantly different, which means that there may be some problems with the Month-to-Month package.
-* Payment method : The same fact is detected when exploring churn by payment method, with direct debit as the most popular paying method of churners.
-* Location:  WV and OH states have higher churn rates than others. Even avg of customer service calls is higher than the average overall call compare to others. 
-### 2. Churn Reason
-* In every region, competitors regarding either offers or devices (45.51%) is the most common churn reason, followed by the attitude of supporters (16.22%) and Dissatisfaction (16.17%)
-* Top 3 churn reason is competitors made better offer or devices, and the attitude of the support person
 ## VI. Recommendation
 * As churn is a concerning problem for the company, further research should be conducted to investigate churn signals in order to early detect churners and take immediate actions before they actually churn.
 * Perform competitor analysis to define our pricing model and packages, as well as product features. This will involve R&D improvements, such as enhancing old features and creating new ones, and defining a unique selling point that cannot be easily replicated by other suppliers.
