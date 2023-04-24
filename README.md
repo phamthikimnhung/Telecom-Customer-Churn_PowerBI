@@ -1,18 +1,18 @@
 # Customer Churn Analysis
-## I. Dataset
-### 1. Introduction
+## I. Introduction
+### 1. Introduction about dataset
 Dataset about user churn in the telecom industry, including a dimensional table with information on users of a telecommunications network company. The table contains fields for demographic information as well as information related to user churn.
 ### 2. Data Dictionary
 ![image](https://user-images.githubusercontent.com/129883764/233998770-ca948be2-703f-401b-81b9-972b3ab4c363.png)
-## Requirement of the Project
+###  3. Requirement of the Project
 Create an overview dashboard for managers to see the churn situation of users and identify the user churn group, thereby offering solutions to improve this situation
-## Design Thinking Method
+## II. Design Thinking Method
 Before developing solutions and visualizing data related to the problem, I will undertake a deep understanding of the problem through the application of the five primary stages of the design thinking process. 
 ![image](https://user-images.githubusercontent.com/129883764/233999960-c5e2c90d-97e3-4416-b04c-97428592333f.png)
-VI. Visualization in Power BI
+## III. Visualization in Power BI
 ![image](https://user-images.githubusercontent.com/129883764/234000262-97f065d6-7ef5-46ad-9668-5fa7c3bfb18a.png)
 ![image](https://user-images.githubusercontent.com/129883764/234000383-87ce7098-4018-4782-8084-4b24a72a645e.png)
-## V. Insight
+## IV. Insight
 ### 1. Overall: 
 * The figure of churn rate is ~ 26.8% (1769/6687) showing that churn rate is a significant issue in the company. It is higher than the average churn rate (22%) in the Telecom industry (according to Statista, 2022)   --> A signal for the company to take action on the churn issue
 * Gender is mostly equal -> No notable issues .
@@ -23,7 +23,7 @@ VI. Visualization in Power BI
 ### 2. Churn Reason
  * In every region, competitors regarding either offers or devices (45.51%) is the most common churn reason, followed by the attitude of supporters (16.22%) and Dissatisfaction (16.17%)
  * Top 3 churn reason is competitors made better offer or devices, and the attitude of the support person
- ## VI. Recommendation
+ ## V. Recommendation
  ### 1. Overall: 
 * The figure of churn rate is ~ 26.8% (1769/6687) showing that churn rate is a significant issue in the company. It is higher than the average churn rate (22%) in the Telecom industry (according to Statista, 2022)   --> A signal for the company to take action on the churn issue
 * Gender is mostly equal -> No notable issues .
