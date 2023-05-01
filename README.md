@@ -23,7 +23,7 @@ Before developing solutions and visualizing data related to the problem, I will 
 ### 2. Churn Reason
  * In every region, competitors regarding either offers or devices (45.51%) is the most common churn reason, followed by the attitude of supporters (16.22%) and Dissatisfaction (16.17%)
  * Top 3 churn reason is competitors made better offer or devices, and the attitude of the support person
-## VI. Recommendation
+## V. Recommendation
 * As churn is a concerning problem for the company, further research should be conducted to investigate churn signals in order to early detect churners and take immediate actions before they actually churn.
 * Perform competitor analysis to define our pricing model and packages, as well as product features. This will involve R&D improvements, such as enhancing old features and creating new ones, and defining a unique selling point that cannot be easily replicated by other suppliers.
 * Re-evaluate our customer support framework and team. This includes building a set of criteria for supporting customers and identifying why old customers were dissatisfied with our customer service.
