@@ -1,4 +1,4 @@
-# Customer Churn Analysis
+# Customer Churn Overview for Telecom Industry
 ## I. Introduction
 ### 1. Introduction about dataset
 Dataset about user churn in the telecom industry, including a dimensional table with information on users of a telecommunications network company. The table contains fields for demographic information as well as information related to user churn.
